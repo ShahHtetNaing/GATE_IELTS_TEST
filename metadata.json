@@ -1,0 +1,7 @@
+{
+  "name": "GATE IELTS Prep",
+  "description": "Comprehensive IELTS preparation platform for the Grand Association of Technology and Education, featuring AI-powered simulations, grading, and detailed feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
